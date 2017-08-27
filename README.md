@@ -20,9 +20,9 @@ Wisdom reconstructs a virtual desktop screen for every visitor, across all brows
 ## Usage
 
 
-Simply [signup for Wisdom](https://App.GetWisdom.io/auth/signup?ref=CloudFlare), [get an `Account ID`](https://Help.GetWisdom.io), then add your ID to the CloudFlare app configuration.
+Simply [signup for Wisdom](https://App.GetWisdom.io/auth/signup?ref=CloudFlare), then [get an `Account ID`](https://Help.GetWisdom.io), and finally add your Account ID to the CloudFlare app configuration.
 
 
 
 ## Support
-Please create an [issue](https://github.com/Wisdom/GitBook-Plugin-Wisdom/issues) for bugs and contributions.
+Please create an [issue](https://github.com/Wisdom/Wisdom-CloudFlare-App/issues) for bugs and contributions.
