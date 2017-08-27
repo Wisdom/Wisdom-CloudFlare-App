@@ -1,0 +1,21 @@
+{
+  "resources": {
+    "head": [
+      {
+        "type": "script",
+        "src": "./source/app.js"
+      }
+    ]
+  },
+  "options": {
+    "properties": {
+      "accountId": {
+        "title": "AccountId",
+        "type": "string",
+        "default": "",
+        "maxLength": 32,
+        "description": "Enter your Wisdom <b>AccountId</b> which can be found on your <a href='https://app.getwisdom.io' target='_blank'>account settings page</a>."
+      }
+    }
+  }
+}

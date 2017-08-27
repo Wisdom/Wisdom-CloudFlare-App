@@ -1,0 +1,28 @@
+{
+  "name": "wisdom-cloudflare-app",
+  "version": "0.1.1",
+  "author": "Wisdom",
+  "description": "Add Wisdom Session Replay to CloudFlare Apps.",
+  "scripts": {},
+  "main": "app.js",
+  "private": false,
+  "homepage": "https://getwisdom.io",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Wisdom/Wisdom-CloudFlare-App"
+  },
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/Wisdom/Wisdom-CloudFlare-App/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "standard": {
+    "globals": [
+      "INSTALL",
+      "INSTALL_OPTIONS",
+      "INSTALL_SCOPE",
+      "INSTALL_ID"
+    ]
+  }
+}
